@@ -8,7 +8,7 @@
 | RAM | 24 GB |
 | Boot / fast storage | 1 TB NVMe |
 | Bulk storage | 16 TB of NAS drives (assumed to be mounted into Proxmox over NFS) |
-| GPU | None added. The 1070 will not fit or be powered in an SFF case; the Intel iGPU handles transcoding. |
+
 
 ## 2. Layout
 
